@@ -1,5 +1,5 @@
-* > div{
-    width: 70%;
+.body_centrale{
+    width: 90%;
 	margin: auto;
 }
 
@@ -9,4 +9,44 @@
 
 .background_giallo{
     background-color: yellow;
+}
+
+
+.img-base{
+    width: 20%;
+    background-color: lightblue;
+    background-repeat: repeat-x;
+}
+
+.grey{
+    color: grey;
+}
+
+.block{
+    display: block;
+}
+
+.top-left {
+    position: absolute;
+    top: 3%;
+    left: 10px;
+    color: white;
+  }
+
+  .container {
+    position: relative;
+  }
+
+  th{
+    color: white;
+    background-color: blue;
+  }
+  
+  .lightblue-background{
+    background-color: lightblue;
+  }
+
+  .foto_centrale{
+    width: 45%;
+	margin: auto;
 }
