@@ -1,3 +1,12 @@
-h1{
-    color: red;
+* > div{
+    width: 70%;
+	margin: auto;
+}
+
+.blu{
+    color: rgb(89, 189, 223);
+}
+
+.background_giallo{
+    background-color: yellow;
 }
