@@ -1,4 +1,4 @@
-.body_centrale{
+.body_centrale, .header{
     width: 90%;
 	margin: auto;
 }
@@ -47,6 +47,16 @@
   }
 
   .foto_centrale{
-    width: 45%;
+  height: 500x;
 	margin: auto;
+}
+
+.header{
+  height: 100px;
+  background-color: #4ea0ff;
+  background-image: url(../img/pattern.png);
+}
+
+#LOGO{
+  height: 50px;
 }
